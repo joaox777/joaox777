@@ -30,7 +30,7 @@
   <a href="Link linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/joaox777/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
 
 
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/joaox777/joaox777/blob/output/github-contribution-grid-snake.svg)
